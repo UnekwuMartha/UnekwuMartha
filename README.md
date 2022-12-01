@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnekwuMartha
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Node and React js 
+- 🌱 I’m currently learning Android Development.
 - 📫 How to reach me via email: negedumartha16@gmail.com
 
 <!---
